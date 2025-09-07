@@ -12,4 +12,5 @@ Python,Numpy,Pandas,Streamlit,Machine Learning(Logistic Regression,LDA,Random Fo
 🔹Deployed the final model into a Streamlit web application with a user-friendly interface.
 🔹Integrated data visualization (charts/graphs) to enhance interpretability of results.
 
-["C:\Users\Victus\Downloads\newplot (2).png"]
+
+![alt text](<img width="970" height="450" alt="newplot (2)" src="https://github.com/user-attachments/assets/d3374cdd-a714-4ec5-89cc-2ebd2ade2e59" />)
