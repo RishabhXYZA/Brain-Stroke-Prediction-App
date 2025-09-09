@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly.express
+sklearn.preprocessing
+sklearn.impute
+sklearn.compose
+sklearn.pipeline
+imblearn.over_sampling
+sklearn.discriminant_analysis 
