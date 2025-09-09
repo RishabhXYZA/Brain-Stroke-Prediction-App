@@ -2,5 +2,6 @@ streamlit
 pandas
 numpy
 plotly.express
-sckit-learn
+scikit-learn
 imblearn.over_sampling
+
