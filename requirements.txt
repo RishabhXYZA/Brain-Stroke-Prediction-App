@@ -3,5 +3,6 @@ pandas
 numpy
 plotly.express
 scikit-learn
-imblearn.over_sampling
+imbalanced-learn
+
 
