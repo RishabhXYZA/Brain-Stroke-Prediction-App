@@ -22,11 +22,7 @@ st.write("This application predicts the likelihood of a brain stroke based on va
 st.write("Please provide the patient's information in the sidebar.")
 
 # Load the dataset
-try:
-    df = pd.read_csv('C:\\Users\\Victus\\OneDrive\\Desktop\\Projects\\Brain Stroke Prediction\\healthcare-dataset-stroke-data.csv')
-except FileNotFoundError:
-    st.error("Error: 'C:\\Users\\Victus\\OneDrive\\Desktop\\Projects\\Brain Stroke Prediction\\healthcare-dataset-stroke-data.csv' not found. Please upload the file to run the app.")
-    st.stop()
+df = pd.read_csv('healthcare-dataset-stroke-data.csv')
 
 # --- Data Preprocessing and Model Training ---
 
@@ -174,3 +170,4 @@ fig_hypertension = px.bar(
     color=stroke_hypertension.index
 )
 st.plotly_chart(fig_hypertension, use_container_width=True)
+
