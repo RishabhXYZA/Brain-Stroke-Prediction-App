@@ -2,7 +2,7 @@
 Build a Brain Stroke Predictor streamlit application
 
 # 💻 Technologies Used
-Python,Numpy,Pandas,Streamlit,Machine Learning(Logistic Regression,LDA,Random Forest),Plotly
+Python,Numpy,Pandas,Streamlit,Machine Learning(Logistic Regression,LDA,Random Forest),Plotly Express 
 
 # 🚀 Features
 1. Performed EDA (Exploratory Data Analysis) to identify patterns and correlations in health data
